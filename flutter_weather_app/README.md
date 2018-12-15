@@ -5,7 +5,7 @@
 ### You will learn: 
 1 | 2 | 3 | 4 
 --- | --- | --- | ---
-Make HTTP request | Future | FutureBuilder | Some Basics Widget 
+Make HTTP request | Future | FutureBuilder | Some Basic Flutter Widget 
 
 
 
