@@ -1,8 +1,12 @@
-# flutter_weather_app
+# Flutter Weather App
 
-A new Flutter application.
+### :heart: Star :heart: the repo to support the project or :smile:[Follow Me](https://github.com/AyushBherwani1998).Thanks!
 
-## Getting Started
+### You will learn: 
+1 | 2 | 3 | 4 
+--- | --- | --- | ---
+Make HTTP request | Future | FutureBuilder | Some Basics Widget 
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+
+
+<img src="" width="320"/>
