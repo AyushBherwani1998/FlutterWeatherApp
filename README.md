@@ -7,7 +7,10 @@
 --- | --- | --- | ---
 Make HTTP request | Future | FutureBuilder | Some Basic Flutter Widget 
 
+### API Used
 
+OpenWeatherMap Current Weather Data API
+Link:(https://openweathermap.org/api)
 
 ### ScreenShots
 ### 1
